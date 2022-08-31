@@ -1,4 +1,5 @@
 import os
+import re
 import copy
 from collections import defaultdict
 
@@ -234,9 +235,22 @@ def generate_rank_analysis(df_all_results, ds_type, n_list=['0', '1']):
     with open(f'{SCRIPT_DIR}/../tables/ranking_table_{ds_type}.html', 'r') as f:
         html_table = f.read()
         html_table = html_table.replace('0000</td>', f'</td>')
-        if len(dict_results) == 1:
-            html_table = html_table.replace('<style type="text/css">', f'')
-            html_table = html_table.replace('</style>', f'')
+
+        html_table_single_line = html_table.replace('\n', f'')
+        # Get text between the strings "<style type="text/css">\n" and "</style>"
+        style_html = re.findall(r'<style type="text/css">(.*?)</style>', html_table_single_line)
+        # Get the ids to highlight
+        for style_html_data in style_html:
+            highlight_ids = [t[1] for t in re.findall(r'(#)(.*?)(,|\s)', style_html_data)]
+        # Change in the original HTML the ids to highlight
+        for highlight_id in highlight_ids:
+            html_table = html_table.replace(
+                f'{highlight_id}"',
+                f'{highlight_id}" style="background-color: gray; font-weight: bold;"')
+        # Remove the style tag as GitHub does not support it, since there is only one style tag,
+        # we can remove it using split and taking the index 1
+        html_table = html_table.split('</style>')[1]
+
     # Write the modified HTML file
     with open(f'{SCRIPT_DIR}/../tables/ranking_table_{ds_type}.html', 'w') as f:
         f.write(html_table)
