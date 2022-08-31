@@ -1,0 +1,25 @@
+name: Update Ranking
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - run: |
+        touch README.md
+        pip install -r requirements.txt
+        python3 ./main/make_ranking.py
+        if [ "${GITHUB_EVENT_NAME}" = "push" ]; then
+          git config --global user.name "RankerBot"
+          git config --global user.email "username@users.noreply.github.com"
+          git pull
+          git add --force README.md
+          git commit -m "Update Ranking"
+          git push
+        fi
