@@ -73,50 +73,61 @@ The highlighted results are the ones that are statistically significant.
 </div>
 
 
+#T_3280c_row0_col0, #T_3280c_row1_col1, #T_3280c_row2_col1, #T_3280c_row3_col1, #T_3280c_row4_col1 {
+  background-color: gray;
+}
 
-<table id="T_5ff16">
+<table id="T_3280c">
   <thead>
     <tr>
       <th class="index_name level0" >framework</th>
-      <th id="T_5ff16_level0_col0" class="col_heading level0 col0" >my_cf_generator</th>
-      <th id="T_5ff16_level0_col1" class="col_heading level0 col1" >N</th>
+      <th id="T_3280c_level0_col0" class="col_heading level0 col0" >my_cf_generator</th>
+      <th id="T_3280c_level0_col1" class="col_heading level0 col1" >new_generator_cf</th>
+      <th id="T_3280c_level0_col2" class="col_heading level0 col2" >N</th>
     </tr>
     <tr>
       <th class="index_name level0" >index</th>
       <th class="blank col0" >&nbsp;</th>
       <th class="blank col1" >&nbsp;</th>
+      <th class="blank col2" >&nbsp;</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th id="T_5ff16_level0_row0" class="row_heading level0 row0" >validity</th>
-      <td id="T_5ff16_row0_col0" class="data row0 col0" >1.00</td>
-      <td id="T_5ff16_row0_col1" class="data row0 col1" >3925</td>
+      <th id="T_3280c_level0_row0" class="row_heading level0 row0" >validity</th>
+      <td id="T_3280c_row0_col0" class="data row0 col0" >1.48</td>
+      <td id="T_3280c_row0_col1" class="data row0 col1" >1.52</td>
+      <td id="T_3280c_row0_col2" class="data row0 col2" >3925</td>
     </tr>
     <tr>
-      <th id="T_5ff16_level0_row1" class="row_heading level0 row1" >sparsity</th>
-      <td id="T_5ff16_row1_col0" class="data row1 col0" >1.00</td>
-      <td id="T_5ff16_row1_col1" class="data row1 col1" >3925</td>
+      <th id="T_3280c_level0_row1" class="row_heading level0 row1" >sparsity</th>
+      <td id="T_3280c_row1_col0" class="data row1 col0" >1.58</td>
+      <td id="T_3280c_row1_col1" class="data row1 col1" >1.42</td>
+      <td id="T_3280c_row1_col2" class="data row1 col2" >3925</td>
     </tr>
     <tr>
-      <th id="T_5ff16_level0_row2" class="row_heading level0 row2" >L2</th>
-      <td id="T_5ff16_row2_col0" class="data row2 col0" >1.00</td>
-      <td id="T_5ff16_row2_col1" class="data row2 col1" >3925</td>
+      <th id="T_3280c_level0_row2" class="row_heading level0 row2" >L2</th>
+      <td id="T_3280c_row2_col0" class="data row2 col0" >1.65</td>
+      <td id="T_3280c_row2_col1" class="data row2 col1" >1.35</td>
+      <td id="T_3280c_row2_col2" class="data row2 col2" >3925</td>
     </tr>
     <tr>
-      <th id="T_5ff16_level0_row3" class="row_heading level0 row3" >MAD</th>
-      <td id="T_5ff16_row3_col0" class="data row3 col0" >1.00</td>
-      <td id="T_5ff16_row3_col1" class="data row3 col1" >3925</td>
+      <th id="T_3280c_level0_row3" class="row_heading level0 row3" >MAD</th>
+      <td id="T_3280c_row3_col0" class="data row3 col0" >1.65</td>
+      <td id="T_3280c_row3_col1" class="data row3 col1" >1.35</td>
+      <td id="T_3280c_row3_col2" class="data row3 col2" >3925</td>
     </tr>
     <tr>
-      <th id="T_5ff16_level0_row4" class="row_heading level0 row4" >MD</th>
-      <td id="T_5ff16_row4_col0" class="data row4 col0" >1.00</td>
-      <td id="T_5ff16_row4_col1" class="data row4 col1" >3925</td>
+      <th id="T_3280c_level0_row4" class="row_heading level0 row4" >MD</th>
+      <td id="T_3280c_row4_col0" class="data row4 col0" >1.60</td>
+      <td id="T_3280c_row4_col1" class="data row4 col1" >1.40</td>
+      <td id="T_3280c_row4_col2" class="data row4 col2" >3925</td>
     </tr>
     <tr>
-      <th id="T_5ff16_level0_row5" class="row_heading level0 row5" >cf_generation_time</th>
-      <td id="T_5ff16_row5_col0" class="data row5 col0" >1.00</td>
-      <td id="T_5ff16_row5_col1" class="data row5 col1" >3925</td>
+      <th id="T_3280c_level0_row5" class="row_heading level0 row5" >cf_generation_time</th>
+      <td id="T_3280c_row5_col0" class="data row5 col0" >1.50</td>
+      <td id="T_3280c_row5_col1" class="data row5 col1" >1.50</td>
+      <td id="T_3280c_row5_col2" class="data row5 col2" >3925</td>
     </tr>
   </tbody>
 </table>
@@ -129,50 +140,61 @@ The highlighted results are the ones that are statistically significant.
 </div>
 
 
+#T_bae36_row1_col1, #T_bae36_row2_col1, #T_bae36_row3_col1 {
+  background-color: gray;
+}
 
-<table id="T_94876">
+<table id="T_bae36">
   <thead>
     <tr>
       <th class="index_name level0" >framework</th>
-      <th id="T_94876_level0_col0" class="col_heading level0 col0" >my_cf_generator</th>
-      <th id="T_94876_level0_col1" class="col_heading level0 col1" >N</th>
+      <th id="T_bae36_level0_col0" class="col_heading level0 col0" >my_cf_generator</th>
+      <th id="T_bae36_level0_col1" class="col_heading level0 col1" >new_generator_cf</th>
+      <th id="T_bae36_level0_col2" class="col_heading level0 col2" >N</th>
     </tr>
     <tr>
       <th class="index_name level0" >index</th>
       <th class="blank col0" >&nbsp;</th>
       <th class="blank col1" >&nbsp;</th>
+      <th class="blank col2" >&nbsp;</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th id="T_94876_level0_row0" class="row_heading level0 row0" >validity</th>
-      <td id="T_94876_row0_col0" class="data row0 col0" >1.00</td>
-      <td id="T_94876_row0_col1" class="data row0 col1" >1327</td>
+      <th id="T_bae36_level0_row0" class="row_heading level0 row0" >validity</th>
+      <td id="T_bae36_row0_col0" class="data row0 col0" >1.50</td>
+      <td id="T_bae36_row0_col1" class="data row0 col1" >1.50</td>
+      <td id="T_bae36_row0_col2" class="data row0 col2" >1327</td>
     </tr>
     <tr>
-      <th id="T_94876_level0_row1" class="row_heading level0 row1" >sparsity</th>
-      <td id="T_94876_row1_col0" class="data row1 col0" >1.00</td>
-      <td id="T_94876_row1_col1" class="data row1 col1" >1327</td>
+      <th id="T_bae36_level0_row1" class="row_heading level0 row1" >sparsity</th>
+      <td id="T_bae36_row1_col0" class="data row1 col0" >1.63</td>
+      <td id="T_bae36_row1_col1" class="data row1 col1" >1.37</td>
+      <td id="T_bae36_row1_col2" class="data row1 col2" >1327</td>
     </tr>
     <tr>
-      <th id="T_94876_level0_row2" class="row_heading level0 row2" >L2</th>
-      <td id="T_94876_row2_col0" class="data row2 col0" >1.00</td>
-      <td id="T_94876_row2_col1" class="data row2 col1" >1327</td>
+      <th id="T_bae36_level0_row2" class="row_heading level0 row2" >L2</th>
+      <td id="T_bae36_row2_col0" class="data row2 col0" >1.63</td>
+      <td id="T_bae36_row2_col1" class="data row2 col1" >1.37</td>
+      <td id="T_bae36_row2_col2" class="data row2 col2" >1327</td>
     </tr>
     <tr>
-      <th id="T_94876_level0_row3" class="row_heading level0 row3" >MAD</th>
-      <td id="T_94876_row3_col0" class="data row3 col0" >1.00</td>
-      <td id="T_94876_row3_col1" class="data row3 col1" >1327</td>
+      <th id="T_bae36_level0_row3" class="row_heading level0 row3" >MAD</th>
+      <td id="T_bae36_row3_col0" class="data row3 col0" >1.63</td>
+      <td id="T_bae36_row3_col1" class="data row3 col1" >1.37</td>
+      <td id="T_bae36_row3_col2" class="data row3 col2" >1327</td>
     </tr>
     <tr>
-      <th id="T_94876_level0_row4" class="row_heading level0 row4" >MD</th>
-      <td id="T_94876_row4_col0" class="data row4 col0" >1.00</td>
-      <td id="T_94876_row4_col1" class="data row4 col1" >1327</td>
+      <th id="T_bae36_level0_row4" class="row_heading level0 row4" >MD</th>
+      <td id="T_bae36_row4_col0" class="data row4 col0" >1.50</td>
+      <td id="T_bae36_row4_col1" class="data row4 col1" >1.50</td>
+      <td id="T_bae36_row4_col2" class="data row4 col2" >1327</td>
     </tr>
     <tr>
-      <th id="T_94876_level0_row5" class="row_heading level0 row5" >cf_generation_time</th>
-      <td id="T_94876_row5_col0" class="data row5 col0" >1.00</td>
-      <td id="T_94876_row5_col1" class="data row5 col1" >1327</td>
+      <th id="T_bae36_level0_row5" class="row_heading level0 row5" >cf_generation_time</th>
+      <td id="T_bae36_row5_col0" class="data row5 col0" >1.50</td>
+      <td id="T_bae36_row5_col1" class="data row5 col1" >1.50</td>
+      <td id="T_bae36_row5_col2" class="data row5 col2" >1327</td>
     </tr>
   </tbody>
 </table>
@@ -185,50 +207,61 @@ The highlighted results are the ones that are statistically significant.
 </div>
 
 
+#T_9be56_row2_col1, #T_9be56_row3_col1, #T_9be56_row4_col1 {
+  background-color: gray;
+}
 
-<table id="T_0a71f">
+<table id="T_9be56">
   <thead>
     <tr>
       <th class="index_name level0" >framework</th>
-      <th id="T_0a71f_level0_col0" class="col_heading level0 col0" >my_cf_generator</th>
-      <th id="T_0a71f_level0_col1" class="col_heading level0 col1" >N</th>
+      <th id="T_9be56_level0_col0" class="col_heading level0 col0" >my_cf_generator</th>
+      <th id="T_9be56_level0_col1" class="col_heading level0 col1" >new_generator_cf</th>
+      <th id="T_9be56_level0_col2" class="col_heading level0 col2" >N</th>
     </tr>
     <tr>
       <th class="index_name level0" >index</th>
       <th class="blank col0" >&nbsp;</th>
       <th class="blank col1" >&nbsp;</th>
+      <th class="blank col2" >&nbsp;</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th id="T_0a71f_level0_row0" class="row_heading level0 row0" >validity</th>
-      <td id="T_0a71f_row0_col0" class="data row0 col0" >1.00</td>
-      <td id="T_0a71f_row0_col1" class="data row0 col1" >1598</td>
+      <th id="T_9be56_level0_row0" class="row_heading level0 row0" >validity</th>
+      <td id="T_9be56_row0_col0" class="data row0 col0" >1.49</td>
+      <td id="T_9be56_row0_col1" class="data row0 col1" >1.51</td>
+      <td id="T_9be56_row0_col2" class="data row0 col2" >1598</td>
     </tr>
     <tr>
-      <th id="T_0a71f_level0_row1" class="row_heading level0 row1" >sparsity</th>
-      <td id="T_0a71f_row1_col0" class="data row1 col0" >1.00</td>
-      <td id="T_0a71f_row1_col1" class="data row1 col1" >1598</td>
+      <th id="T_9be56_level0_row1" class="row_heading level0 row1" >sparsity</th>
+      <td id="T_9be56_row1_col0" class="data row1 col0" >1.49</td>
+      <td id="T_9be56_row1_col1" class="data row1 col1" >1.51</td>
+      <td id="T_9be56_row1_col2" class="data row1 col2" >1598</td>
     </tr>
     <tr>
-      <th id="T_0a71f_level0_row2" class="row_heading level0 row2" >L2</th>
-      <td id="T_0a71f_row2_col0" class="data row2 col0" >1.00</td>
-      <td id="T_0a71f_row2_col1" class="data row2 col1" >1598</td>
+      <th id="T_9be56_level0_row2" class="row_heading level0 row2" >L2</th>
+      <td id="T_9be56_row2_col0" class="data row2 col0" >1.67</td>
+      <td id="T_9be56_row2_col1" class="data row2 col1" >1.33</td>
+      <td id="T_9be56_row2_col2" class="data row2 col2" >1598</td>
     </tr>
     <tr>
-      <th id="T_0a71f_level0_row3" class="row_heading level0 row3" >MAD</th>
-      <td id="T_0a71f_row3_col0" class="data row3 col0" >1.00</td>
-      <td id="T_0a71f_row3_col1" class="data row3 col1" >1598</td>
+      <th id="T_9be56_level0_row3" class="row_heading level0 row3" >MAD</th>
+      <td id="T_9be56_row3_col0" class="data row3 col0" >1.68</td>
+      <td id="T_9be56_row3_col1" class="data row3 col1" >1.32</td>
+      <td id="T_9be56_row3_col2" class="data row3 col2" >1598</td>
     </tr>
     <tr>
-      <th id="T_0a71f_level0_row4" class="row_heading level0 row4" >MD</th>
-      <td id="T_0a71f_row4_col0" class="data row4 col0" >1.00</td>
-      <td id="T_0a71f_row4_col1" class="data row4 col1" >1598</td>
+      <th id="T_9be56_level0_row4" class="row_heading level0 row4" >MD</th>
+      <td id="T_9be56_row4_col0" class="data row4 col0" >1.67</td>
+      <td id="T_9be56_row4_col1" class="data row4 col1" >1.33</td>
+      <td id="T_9be56_row4_col2" class="data row4 col2" >1598</td>
     </tr>
     <tr>
-      <th id="T_0a71f_level0_row5" class="row_heading level0 row5" >cf_generation_time</th>
-      <td id="T_0a71f_row5_col0" class="data row5 col0" >1.00</td>
-      <td id="T_0a71f_row5_col1" class="data row5 col1" >1598</td>
+      <th id="T_9be56_level0_row5" class="row_heading level0 row5" >cf_generation_time</th>
+      <td id="T_9be56_row5_col0" class="data row5 col0" >1.50</td>
+      <td id="T_9be56_row5_col1" class="data row5 col1" >1.50</td>
+      <td id="T_9be56_row5_col2" class="data row5 col2" >1598</td>
     </tr>
   </tbody>
 </table>
@@ -241,50 +274,61 @@ The highlighted results are the ones that are statistically significant.
 </div>
 
 
+#T_9ef1f_row0_col0, #T_9ef1f_row1_col1, #T_9ef1f_row2_col1, #T_9ef1f_row3_col1, #T_9ef1f_row4_col1 {
+  background-color: gray;
+}
 
-<table id="T_048ca">
+<table id="T_9ef1f">
   <thead>
     <tr>
       <th class="index_name level0" >framework</th>
-      <th id="T_048ca_level0_col0" class="col_heading level0 col0" >my_cf_generator</th>
-      <th id="T_048ca_level0_col1" class="col_heading level0 col1" >N</th>
+      <th id="T_9ef1f_level0_col0" class="col_heading level0 col0" >my_cf_generator</th>
+      <th id="T_9ef1f_level0_col1" class="col_heading level0 col1" >new_generator_cf</th>
+      <th id="T_9ef1f_level0_col2" class="col_heading level0 col2" >N</th>
     </tr>
     <tr>
       <th class="index_name level0" >index</th>
       <th class="blank col0" >&nbsp;</th>
       <th class="blank col1" >&nbsp;</th>
+      <th class="blank col2" >&nbsp;</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th id="T_048ca_level0_row0" class="row_heading level0 row0" >validity</th>
-      <td id="T_048ca_row0_col0" class="data row0 col0" >1.00</td>
-      <td id="T_048ca_row0_col1" class="data row0 col1" >1000</td>
+      <th id="T_9ef1f_level0_row0" class="row_heading level0 row0" >validity</th>
+      <td id="T_9ef1f_row0_col0" class="data row0 col0" >1.45</td>
+      <td id="T_9ef1f_row0_col1" class="data row0 col1" >1.55</td>
+      <td id="T_9ef1f_row0_col2" class="data row0 col2" >1000</td>
     </tr>
     <tr>
-      <th id="T_048ca_level0_row1" class="row_heading level0 row1" >sparsity</th>
-      <td id="T_048ca_row1_col0" class="data row1 col0" >1.00</td>
-      <td id="T_048ca_row1_col1" class="data row1 col1" >1000</td>
+      <th id="T_9ef1f_level0_row1" class="row_heading level0 row1" >sparsity</th>
+      <td id="T_9ef1f_row1_col0" class="data row1 col0" >1.65</td>
+      <td id="T_9ef1f_row1_col1" class="data row1 col1" >1.35</td>
+      <td id="T_9ef1f_row1_col2" class="data row1 col2" >1000</td>
     </tr>
     <tr>
-      <th id="T_048ca_level0_row2" class="row_heading level0 row2" >L2</th>
-      <td id="T_048ca_row2_col0" class="data row2 col0" >1.00</td>
-      <td id="T_048ca_row2_col1" class="data row2 col1" >1000</td>
+      <th id="T_9ef1f_level0_row2" class="row_heading level0 row2" >L2</th>
+      <td id="T_9ef1f_row2_col0" class="data row2 col0" >1.65</td>
+      <td id="T_9ef1f_row2_col1" class="data row2 col1" >1.35</td>
+      <td id="T_9ef1f_row2_col2" class="data row2 col2" >1000</td>
     </tr>
     <tr>
-      <th id="T_048ca_level0_row3" class="row_heading level0 row3" >MAD</th>
-      <td id="T_048ca_row3_col0" class="data row3 col0" >1.00</td>
-      <td id="T_048ca_row3_col1" class="data row3 col1" >1000</td>
+      <th id="T_9ef1f_level0_row3" class="row_heading level0 row3" >MAD</th>
+      <td id="T_9ef1f_row3_col0" class="data row3 col0" >1.63</td>
+      <td id="T_9ef1f_row3_col1" class="data row3 col1" >1.37</td>
+      <td id="T_9ef1f_row3_col2" class="data row3 col2" >1000</td>
     </tr>
     <tr>
-      <th id="T_048ca_level0_row4" class="row_heading level0 row4" >MD</th>
-      <td id="T_048ca_row4_col0" class="data row4 col0" >1.00</td>
-      <td id="T_048ca_row4_col1" class="data row4 col1" >1000</td>
+      <th id="T_9ef1f_level0_row4" class="row_heading level0 row4" >MD</th>
+      <td id="T_9ef1f_row4_col0" class="data row4 col0" >1.62</td>
+      <td id="T_9ef1f_row4_col1" class="data row4 col1" >1.38</td>
+      <td id="T_9ef1f_row4_col2" class="data row4 col2" >1000</td>
     </tr>
     <tr>
-      <th id="T_048ca_level0_row5" class="row_heading level0 row5" >cf_generation_time</th>
-      <td id="T_048ca_row5_col0" class="data row5 col0" >1.00</td>
-      <td id="T_048ca_row5_col1" class="data row5 col1" >1000</td>
+      <th id="T_9ef1f_level0_row5" class="row_heading level0 row5" >cf_generation_time</th>
+      <td id="T_9ef1f_row5_col0" class="data row5 col0" >1.50</td>
+      <td id="T_9ef1f_row5_col1" class="data row5 col1" >1.50</td>
+      <td id="T_9ef1f_row5_col2" class="data row5 col2" >1000</td>
     </tr>
   </tbody>
 </table>
