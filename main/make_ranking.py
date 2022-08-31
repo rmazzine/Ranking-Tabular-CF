@@ -234,6 +234,8 @@ def generate_rank_analysis(df_all_results, ds_type, n_list=['0', '1']):
     with open(f'{SCRIPT_DIR}/../tables/ranking_table_{ds_type}.html', 'r') as f:
         html_table = f.read()
         html_table = html_table.replace('0000</td>', f'</td>')
+        html_table = html_table.replace('<style type="text/css">', f'')
+        html_table = html_table.replace('</style>', f'')
     # Write the modified HTML file
     with open(f'{SCRIPT_DIR}/../tables/ranking_table_{ds_type}.html', 'w') as f:
         f.write(html_table)
