@@ -226,7 +226,7 @@ def generate_rank_analysis(df_all_results, ds_type, n_list=['0', '1']):
 
     # Adjust to standard column and row order
     result_df_mean = result_df_mean[algorithms_names + ['N']].loc[
-        ['validity', 'sparsity', 'L2', 'MAD', 'MD', 'cf_generation_time']]
+        ['validity', 'sparsity', 'L2', 'MAD', 'MD']]
 
     table_ranking_styled = result_df_mean.style.apply(highlight_group_best, axis=1)
     table_ranking_styled.data = table_ranking_styled.data.applymap(lambda x: round(x, 2))
@@ -244,9 +244,11 @@ def generate_rank_analysis(df_all_results, ds_type, n_list=['0', '1']):
             highlight_ids = [t[1] for t in re.findall(r'(#)(.*?)(,|\s)', style_html_data)]
         # Change in the original HTML the ids to highlight
         for highlight_id in highlight_ids:
+            highlight_id_row = highlight_id.split('_')[2]
+            highlight_id_col = highlight_id.split('_')[3]
             html_table = html_table.replace(
-                f'{highlight_id}"',
-                f'{highlight_id}" style="background-color: gray; font-weight: bold;"')
+                f'{highlight_id}" class="data {highlight_id_row} {highlight_id_col}" >',
+                f'{highlight_id}" class="data {highlight_id_row} {highlight_id_col}" >🥇')
         # Remove the style tag as GitHub does not support it, since there is only one style tag,
         # we can remove it using split and taking the index 1
         html_table = html_table.split('</style>')[1]
