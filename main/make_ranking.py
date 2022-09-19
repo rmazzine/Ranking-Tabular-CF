@@ -121,6 +121,13 @@ def create_full_dataframe(dict_results):
                 sdf = pd.DataFrame(dsname_r)
                 # Include the dataset name on the DataFrame
                 sdf['dataset'] = dsname
+
+                # We only consider results where validity is true because non-valid results do not follow
+                # data constraints (binary format, ohe rules) and can artificially better than valid results
+                for metric in set(list(sdf.columns)).difference(
+                        ['framework', 'n', 'validity', 'validityFound', 'dataset']):
+                    sdf.loc[~sdf['validity'], metric] = np.nan
+
                 # Append the result into the output list
                 dsname_results.append(sdf)
 
