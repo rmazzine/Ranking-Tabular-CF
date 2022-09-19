@@ -331,6 +331,8 @@ def generate_charts(df_all_results, ds_type, metric, max_y=None):
     #     show_values_on_bars(ax, np.array(realistic_analysis_mean['coverage'].tolist()))
     ax.set_title(chart_title)
     #     ax.figure.set_size_inches(10,6)
+    plt.xticks(rotation=90)
+    plt.tight_layout()
 
     plt.savefig(f'{SCRIPT_DIR}/../charts/{metric}_chart_{ds_type}.png')
 
