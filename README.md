@@ -73,18 +73,18 @@ The highlighted results are the ones that are statistically significant.
 </div>
 
 
-<table id="T_12102">
+<table id="T_ee0f7">
   <thead>
     <tr>
       <th class="index_name level0" >framework</th>
-      <th id="T_12102_level0_col0" class="col_heading level0 col0" >synas</th>
-      <th id="T_12102_level0_col1" class="col_heading level0 col1" >sedc</th>
-      <th id="T_12102_level0_col2" class="col_heading level0 col2" >alibi</th>
-      <th id="T_12102_level0_col3" class="col_heading level0 col3" >cadex</th>
-      <th id="T_12102_level0_col4" class="col_heading level0 col4" >alibi_nograd</th>
-      <th id="T_12102_level0_col5" class="col_heading level0 col5" >dice</th>
-      <th id="T_12102_level0_col6" class="col_heading level0 col6" >growingspheres</th>
-      <th id="T_12102_level0_col7" class="col_heading level0 col7" >N</th>
+      <th id="T_ee0f7_level0_col0" class="col_heading level0 col0" >synas</th>
+      <th id="T_ee0f7_level0_col1" class="col_heading level0 col1" >sedc</th>
+      <th id="T_ee0f7_level0_col2" class="col_heading level0 col2" >alibi</th>
+      <th id="T_ee0f7_level0_col3" class="col_heading level0 col3" >cadex</th>
+      <th id="T_ee0f7_level0_col4" class="col_heading level0 col4" >alibi_nograd</th>
+      <th id="T_ee0f7_level0_col5" class="col_heading level0 col5" >dice</th>
+      <th id="T_ee0f7_level0_col6" class="col_heading level0 col6" >growingspheres</th>
+      <th id="T_ee0f7_level0_col7" class="col_heading level0 col7" >N</th>
     </tr>
     <tr>
       <th class="index_name level0" >index</th>
@@ -100,59 +100,59 @@ The highlighted results are the ones that are statistically significant.
   </thead>
   <tbody>
     <tr>
-      <th id="T_12102_level0_row0" class="row_heading level0 row0" >validity</th>
-      <td id="T_12102_row0_col0" class="data row0 col0" >3.97</td>
-      <td id="T_12102_row0_col1" class="data row0 col1" >4.62</td>
-      <td id="T_12102_row0_col2" class="data row0 col2" >4.05</td>
-      <td id="T_12102_row0_col3" class="data row0 col3" >3.49</td>
-      <td id="T_12102_row0_col4" class="data row0 col4" >4.04</td>
-      <td id="T_12102_row0_col5" class="data row0 col5" >🥇3.28</td>
-      <td id="T_12102_row0_col6" class="data row0 col6" >4.55</td>
-      <td id="T_12102_row0_col7" class="data row0 col7" >3925</td>
+      <th id="T_ee0f7_level0_row0" class="row_heading level0 row0" >validity</th>
+      <td id="T_ee0f7_row0_col0" class="data row0 col0" >4.01</td>
+      <td id="T_ee0f7_row0_col1" class="data row0 col1" >4.66</td>
+      <td id="T_ee0f7_row0_col2" class="data row0 col2" >4.09</td>
+      <td id="T_ee0f7_row0_col3" class="data row0 col3" >🥇3.24</td>
+      <td id="T_ee0f7_row0_col4" class="data row0 col4" >4.08</td>
+      <td id="T_ee0f7_row0_col5" class="data row0 col5" >🥇3.32</td>
+      <td id="T_ee0f7_row0_col6" class="data row0 col6" >4.59</td>
+      <td id="T_ee0f7_row0_col7" class="data row0 col7" >3925</td>
     </tr>
     <tr>
-      <th id="T_12102_level0_row1" class="row_heading level0 row1" >sparsity</th>
-      <td id="T_12102_row1_col0" class="data row1 col0" >3.28</td>
-      <td id="T_12102_row1_col1" class="data row1 col1" >4.29</td>
-      <td id="T_12102_row1_col2" class="data row1 col2" >4.16</td>
-      <td id="T_12102_row1_col3" class="data row1 col3" >4.38</td>
-      <td id="T_12102_row1_col4" class="data row1 col4" >4.08</td>
-      <td id="T_12102_row1_col5" class="data row1 col5" >🥇2.85</td>
-      <td id="T_12102_row1_col6" class="data row1 col6" >4.96</td>
-      <td id="T_12102_row1_col7" class="data row1 col7" >3925</td>
+      <th id="T_ee0f7_level0_row1" class="row_heading level0 row1" >sparsity</th>
+      <td id="T_ee0f7_row1_col0" class="data row1 col0" >3.30</td>
+      <td id="T_ee0f7_row1_col1" class="data row1 col1" >4.33</td>
+      <td id="T_ee0f7_row1_col2" class="data row1 col2" >4.18</td>
+      <td id="T_ee0f7_row1_col3" class="data row1 col3" >4.19</td>
+      <td id="T_ee0f7_row1_col4" class="data row1 col4" >4.12</td>
+      <td id="T_ee0f7_row1_col5" class="data row1 col5" >🥇2.89</td>
+      <td id="T_ee0f7_row1_col6" class="data row1 col6" >5.00</td>
+      <td id="T_ee0f7_row1_col7" class="data row1 col7" >3925</td>
     </tr>
     <tr>
-      <th id="T_12102_level0_row2" class="row_heading level0 row2" >L2</th>
-      <td id="T_12102_row2_col0" class="data row2 col0" >4.06</td>
-      <td id="T_12102_row2_col1" class="data row2 col1" >5.00</td>
-      <td id="T_12102_row2_col2" class="data row2 col2" >🥇3.74</td>
-      <td id="T_12102_row2_col3" class="data row2 col3" >🥇3.61</td>
-      <td id="T_12102_row2_col4" class="data row2 col4" >🥇3.66</td>
-      <td id="T_12102_row2_col5" class="data row2 col5" >4.03</td>
-      <td id="T_12102_row2_col6" class="data row2 col6" >3.90</td>
-      <td id="T_12102_row2_col7" class="data row2 col7" >3925</td>
+      <th id="T_ee0f7_level0_row2" class="row_heading level0 row2" >L2</th>
+      <td id="T_ee0f7_row2_col0" class="data row2 col0" >4.09</td>
+      <td id="T_ee0f7_row2_col1" class="data row2 col1" >5.04</td>
+      <td id="T_ee0f7_row2_col2" class="data row2 col2" >3.76</td>
+      <td id="T_ee0f7_row2_col3" class="data row2 col3" >🥇3.41</td>
+      <td id="T_ee0f7_row2_col4" class="data row2 col4" >3.69</td>
+      <td id="T_ee0f7_row2_col5" class="data row2 col5" >4.06</td>
+      <td id="T_ee0f7_row2_col6" class="data row2 col6" >3.94</td>
+      <td id="T_ee0f7_row2_col7" class="data row2 col7" >3925</td>
     </tr>
     <tr>
-      <th id="T_12102_level0_row3" class="row_heading level0 row3" >MAD</th>
-      <td id="T_12102_row3_col0" class="data row3 col0" >4.04</td>
-      <td id="T_12102_row3_col1" class="data row3 col1" >4.47</td>
-      <td id="T_12102_row3_col2" class="data row3 col2" >3.88</td>
-      <td id="T_12102_row3_col3" class="data row3 col3" >3.83</td>
-      <td id="T_12102_row3_col4" class="data row3 col4" >🥇3.70</td>
-      <td id="T_12102_row3_col5" class="data row3 col5" >🥇3.57</td>
-      <td id="T_12102_row3_col6" class="data row3 col6" >4.50</td>
-      <td id="T_12102_row3_col7" class="data row3 col7" >3925</td>
+      <th id="T_ee0f7_level0_row3" class="row_heading level0 row3" >MAD</th>
+      <td id="T_ee0f7_row3_col0" class="data row3 col0" >4.07</td>
+      <td id="T_ee0f7_row3_col1" class="data row3 col1" >4.51</td>
+      <td id="T_ee0f7_row3_col2" class="data row3 col2" >3.91</td>
+      <td id="T_ee0f7_row3_col3" class="data row3 col3" >🥇3.61</td>
+      <td id="T_ee0f7_row3_col4" class="data row3 col4" >🥇3.74</td>
+      <td id="T_ee0f7_row3_col5" class="data row3 col5" >🥇3.61</td>
+      <td id="T_ee0f7_row3_col6" class="data row3 col6" >4.54</td>
+      <td id="T_ee0f7_row3_col7" class="data row3 col7" >3925</td>
     </tr>
     <tr>
-      <th id="T_12102_level0_row4" class="row_heading level0 row4" >MD</th>
-      <td id="T_12102_row4_col0" class="data row4 col0" >4.01</td>
-      <td id="T_12102_row4_col1" class="data row4 col1" >5.05</td>
-      <td id="T_12102_row4_col2" class="data row4 col2" >3.70</td>
-      <td id="T_12102_row4_col3" class="data row4 col3" >🥇3.55</td>
-      <td id="T_12102_row4_col4" class="data row4 col4" >🥇3.67</td>
-      <td id="T_12102_row4_col5" class="data row4 col5" >4.01</td>
-      <td id="T_12102_row4_col6" class="data row4 col6" >4.01</td>
-      <td id="T_12102_row4_col7" class="data row4 col7" >3925</td>
+      <th id="T_ee0f7_level0_row4" class="row_heading level0 row4" >MD</th>
+      <td id="T_ee0f7_row4_col0" class="data row4 col0" >4.05</td>
+      <td id="T_ee0f7_row4_col1" class="data row4 col1" >5.09</td>
+      <td id="T_ee0f7_row4_col2" class="data row4 col2" >3.73</td>
+      <td id="T_ee0f7_row4_col3" class="data row4 col3" >🥇3.32</td>
+      <td id="T_ee0f7_row4_col4" class="data row4 col4" >3.71</td>
+      <td id="T_ee0f7_row4_col5" class="data row4 col5" >4.05</td>
+      <td id="T_ee0f7_row4_col6" class="data row4 col6" >4.05</td>
+      <td id="T_ee0f7_row4_col7" class="data row4 col7" >3925</td>
     </tr>
   </tbody>
 </table>
@@ -165,18 +165,18 @@ The highlighted results are the ones that are statistically significant.
 </div>
 
 
-<table id="T_6246e">
+<table id="T_db8d5">
   <thead>
     <tr>
       <th class="index_name level0" >framework</th>
-      <th id="T_6246e_level0_col0" class="col_heading level0 col0" >synas</th>
-      <th id="T_6246e_level0_col1" class="col_heading level0 col1" >sedc</th>
-      <th id="T_6246e_level0_col2" class="col_heading level0 col2" >alibi</th>
-      <th id="T_6246e_level0_col3" class="col_heading level0 col3" >cadex</th>
-      <th id="T_6246e_level0_col4" class="col_heading level0 col4" >alibi_nograd</th>
-      <th id="T_6246e_level0_col5" class="col_heading level0 col5" >dice</th>
-      <th id="T_6246e_level0_col6" class="col_heading level0 col6" >growingspheres</th>
-      <th id="T_6246e_level0_col7" class="col_heading level0 col7" >N</th>
+      <th id="T_db8d5_level0_col0" class="col_heading level0 col0" >synas</th>
+      <th id="T_db8d5_level0_col1" class="col_heading level0 col1" >sedc</th>
+      <th id="T_db8d5_level0_col2" class="col_heading level0 col2" >alibi</th>
+      <th id="T_db8d5_level0_col3" class="col_heading level0 col3" >cadex</th>
+      <th id="T_db8d5_level0_col4" class="col_heading level0 col4" >alibi_nograd</th>
+      <th id="T_db8d5_level0_col5" class="col_heading level0 col5" >dice</th>
+      <th id="T_db8d5_level0_col6" class="col_heading level0 col6" >growingspheres</th>
+      <th id="T_db8d5_level0_col7" class="col_heading level0 col7" >N</th>
     </tr>
     <tr>
       <th class="index_name level0" >index</th>
@@ -192,59 +192,59 @@ The highlighted results are the ones that are statistically significant.
   </thead>
   <tbody>
     <tr>
-      <th id="T_6246e_level0_row0" class="row_heading level0 row0" >validity</th>
-      <td id="T_6246e_row0_col0" class="data row0 col0" >3.66</td>
-      <td id="T_6246e_row0_col1" class="data row0 col1" >5.37</td>
-      <td id="T_6246e_row0_col2" class="data row0 col2" >4.55</td>
-      <td id="T_6246e_row0_col3" class="data row0 col3" >2.88</td>
-      <td id="T_6246e_row0_col4" class="data row0 col4" >4.31</td>
-      <td id="T_6246e_row0_col5" class="data row0 col5" >🥇1.87</td>
-      <td id="T_6246e_row0_col6" class="data row0 col6" >5.37</td>
-      <td id="T_6246e_row0_col7" class="data row0 col7" >1327</td>
+      <th id="T_db8d5_level0_row0" class="row_heading level0 row0" >validity</th>
+      <td id="T_db8d5_row0_col0" class="data row0 col0" >3.66</td>
+      <td id="T_db8d5_row0_col1" class="data row0 col1" >5.37</td>
+      <td id="T_db8d5_row0_col2" class="data row0 col2" >4.55</td>
+      <td id="T_db8d5_row0_col3" class="data row0 col3" >2.88</td>
+      <td id="T_db8d5_row0_col4" class="data row0 col4" >4.31</td>
+      <td id="T_db8d5_row0_col5" class="data row0 col5" >🥇1.87</td>
+      <td id="T_db8d5_row0_col6" class="data row0 col6" >5.37</td>
+      <td id="T_db8d5_row0_col7" class="data row0 col7" >1327</td>
     </tr>
     <tr>
-      <th id="T_6246e_level0_row1" class="row_heading level0 row1" >sparsity</th>
-      <td id="T_6246e_row1_col0" class="data row1 col0" >3.26</td>
-      <td id="T_6246e_row1_col1" class="data row1 col1" >5.37</td>
-      <td id="T_6246e_row1_col2" class="data row1 col2" >4.42</td>
-      <td id="T_6246e_row1_col3" class="data row1 col3" >3.53</td>
-      <td id="T_6246e_row1_col4" class="data row1 col4" >4.10</td>
-      <td id="T_6246e_row1_col5" class="data row1 col5" >🥇1.96</td>
-      <td id="T_6246e_row1_col6" class="data row1 col6" >5.37</td>
-      <td id="T_6246e_row1_col7" class="data row1 col7" >1327</td>
+      <th id="T_db8d5_level0_row1" class="row_heading level0 row1" >sparsity</th>
+      <td id="T_db8d5_row1_col0" class="data row1 col0" >3.26</td>
+      <td id="T_db8d5_row1_col1" class="data row1 col1" >5.37</td>
+      <td id="T_db8d5_row1_col2" class="data row1 col2" >4.42</td>
+      <td id="T_db8d5_row1_col3" class="data row1 col3" >3.53</td>
+      <td id="T_db8d5_row1_col4" class="data row1 col4" >4.10</td>
+      <td id="T_db8d5_row1_col5" class="data row1 col5" >🥇1.96</td>
+      <td id="T_db8d5_row1_col6" class="data row1 col6" >5.37</td>
+      <td id="T_db8d5_row1_col7" class="data row1 col7" >1327</td>
     </tr>
     <tr>
-      <th id="T_6246e_level0_row2" class="row_heading level0 row2" >L2</th>
-      <td id="T_6246e_row2_col0" class="data row2 col0" >3.26</td>
-      <td id="T_6246e_row2_col1" class="data row2 col1" >5.37</td>
-      <td id="T_6246e_row2_col2" class="data row2 col2" >4.42</td>
-      <td id="T_6246e_row2_col3" class="data row2 col3" >3.53</td>
-      <td id="T_6246e_row2_col4" class="data row2 col4" >4.10</td>
-      <td id="T_6246e_row2_col5" class="data row2 col5" >🥇1.96</td>
-      <td id="T_6246e_row2_col6" class="data row2 col6" >5.37</td>
-      <td id="T_6246e_row2_col7" class="data row2 col7" >1327</td>
+      <th id="T_db8d5_level0_row2" class="row_heading level0 row2" >L2</th>
+      <td id="T_db8d5_row2_col0" class="data row2 col0" >3.26</td>
+      <td id="T_db8d5_row2_col1" class="data row2 col1" >5.37</td>
+      <td id="T_db8d5_row2_col2" class="data row2 col2" >4.42</td>
+      <td id="T_db8d5_row2_col3" class="data row2 col3" >3.53</td>
+      <td id="T_db8d5_row2_col4" class="data row2 col4" >4.10</td>
+      <td id="T_db8d5_row2_col5" class="data row2 col5" >🥇1.96</td>
+      <td id="T_db8d5_row2_col6" class="data row2 col6" >5.37</td>
+      <td id="T_db8d5_row2_col7" class="data row2 col7" >1327</td>
     </tr>
     <tr>
-      <th id="T_6246e_level0_row3" class="row_heading level0 row3" >MAD</th>
-      <td id="T_6246e_row3_col0" class="data row3 col0" >3.82</td>
-      <td id="T_6246e_row3_col1" class="data row3 col1" >5.17</td>
-      <td id="T_6246e_row3_col2" class="data row3 col2" >4.74</td>
-      <td id="T_6246e_row3_col3" class="data row3 col3" >3.25</td>
-      <td id="T_6246e_row3_col4" class="data row3 col4" >4.23</td>
-      <td id="T_6246e_row3_col5" class="data row3 col5" >🥇1.61</td>
-      <td id="T_6246e_row3_col6" class="data row3 col6" >5.17</td>
-      <td id="T_6246e_row3_col7" class="data row3 col7" >1327</td>
+      <th id="T_db8d5_level0_row3" class="row_heading level0 row3" >MAD</th>
+      <td id="T_db8d5_row3_col0" class="data row3 col0" >3.82</td>
+      <td id="T_db8d5_row3_col1" class="data row3 col1" >5.17</td>
+      <td id="T_db8d5_row3_col2" class="data row3 col2" >4.74</td>
+      <td id="T_db8d5_row3_col3" class="data row3 col3" >3.25</td>
+      <td id="T_db8d5_row3_col4" class="data row3 col4" >4.23</td>
+      <td id="T_db8d5_row3_col5" class="data row3 col5" >🥇1.61</td>
+      <td id="T_db8d5_row3_col6" class="data row3 col6" >5.17</td>
+      <td id="T_db8d5_row3_col7" class="data row3 col7" >1327</td>
     </tr>
     <tr>
-      <th id="T_6246e_level0_row4" class="row_heading level0 row4" >MD</th>
-      <td id="T_6246e_row4_col0" class="data row4 col0" >3.28</td>
-      <td id="T_6246e_row4_col1" class="data row4 col1" >5.37</td>
-      <td id="T_6246e_row4_col2" class="data row4 col2" >4.41</td>
-      <td id="T_6246e_row4_col3" class="data row4 col3" >3.54</td>
-      <td id="T_6246e_row4_col4" class="data row4 col4" >4.09</td>
-      <td id="T_6246e_row4_col5" class="data row4 col5" >🥇1.95</td>
-      <td id="T_6246e_row4_col6" class="data row4 col6" >5.37</td>
-      <td id="T_6246e_row4_col7" class="data row4 col7" >1327</td>
+      <th id="T_db8d5_level0_row4" class="row_heading level0 row4" >MD</th>
+      <td id="T_db8d5_row4_col0" class="data row4 col0" >3.28</td>
+      <td id="T_db8d5_row4_col1" class="data row4 col1" >5.37</td>
+      <td id="T_db8d5_row4_col2" class="data row4 col2" >4.41</td>
+      <td id="T_db8d5_row4_col3" class="data row4 col3" >3.54</td>
+      <td id="T_db8d5_row4_col4" class="data row4 col4" >4.09</td>
+      <td id="T_db8d5_row4_col5" class="data row4 col5" >🥇1.95</td>
+      <td id="T_db8d5_row4_col6" class="data row4 col6" >5.37</td>
+      <td id="T_db8d5_row4_col7" class="data row4 col7" >1327</td>
     </tr>
   </tbody>
 </table>
@@ -257,18 +257,18 @@ The highlighted results are the ones that are statistically significant.
 </div>
 
 
-<table id="T_c6fc3">
+<table id="T_1d27d">
   <thead>
     <tr>
       <th class="index_name level0" >framework</th>
-      <th id="T_c6fc3_level0_col0" class="col_heading level0 col0" >synas</th>
-      <th id="T_c6fc3_level0_col1" class="col_heading level0 col1" >sedc</th>
-      <th id="T_c6fc3_level0_col2" class="col_heading level0 col2" >alibi</th>
-      <th id="T_c6fc3_level0_col3" class="col_heading level0 col3" >cadex</th>
-      <th id="T_c6fc3_level0_col4" class="col_heading level0 col4" >alibi_nograd</th>
-      <th id="T_c6fc3_level0_col5" class="col_heading level0 col5" >dice</th>
-      <th id="T_c6fc3_level0_col6" class="col_heading level0 col6" >growingspheres</th>
-      <th id="T_c6fc3_level0_col7" class="col_heading level0 col7" >N</th>
+      <th id="T_1d27d_level0_col0" class="col_heading level0 col0" >synas</th>
+      <th id="T_1d27d_level0_col1" class="col_heading level0 col1" >sedc</th>
+      <th id="T_1d27d_level0_col2" class="col_heading level0 col2" >alibi</th>
+      <th id="T_1d27d_level0_col3" class="col_heading level0 col3" >cadex</th>
+      <th id="T_1d27d_level0_col4" class="col_heading level0 col4" >alibi_nograd</th>
+      <th id="T_1d27d_level0_col5" class="col_heading level0 col5" >dice</th>
+      <th id="T_1d27d_level0_col6" class="col_heading level0 col6" >growingspheres</th>
+      <th id="T_1d27d_level0_col7" class="col_heading level0 col7" >N</th>
     </tr>
     <tr>
       <th class="index_name level0" >index</th>
@@ -284,59 +284,59 @@ The highlighted results are the ones that are statistically significant.
   </thead>
   <tbody>
     <tr>
-      <th id="T_c6fc3_level0_row0" class="row_heading level0 row0" >validity</th>
-      <td id="T_c6fc3_row0_col0" class="data row0 col0" >4.73</td>
-      <td id="T_c6fc3_row0_col1" class="data row0 col1" >4.05</td>
-      <td id="T_c6fc3_row0_col2" class="data row0 col2" >3.86</td>
-      <td id="T_c6fc3_row0_col3" class="data row0 col3" >4.03</td>
-      <td id="T_c6fc3_row0_col4" class="data row0 col4" >3.85</td>
-      <td id="T_c6fc3_row0_col5" class="data row0 col5" >3.94</td>
-      <td id="T_c6fc3_row0_col6" class="data row0 col6" >🥇3.55</td>
-      <td id="T_c6fc3_row0_col7" class="data row0 col7" >1598</td>
+      <th id="T_1d27d_level0_row0" class="row_heading level0 row0" >validity</th>
+      <td id="T_1d27d_row0_col0" class="data row0 col0" >4.73</td>
+      <td id="T_1d27d_row0_col1" class="data row0 col1" >4.05</td>
+      <td id="T_1d27d_row0_col2" class="data row0 col2" >3.86</td>
+      <td id="T_1d27d_row0_col3" class="data row0 col3" >4.03</td>
+      <td id="T_1d27d_row0_col4" class="data row0 col4" >3.85</td>
+      <td id="T_1d27d_row0_col5" class="data row0 col5" >3.94</td>
+      <td id="T_1d27d_row0_col6" class="data row0 col6" >🥇3.55</td>
+      <td id="T_1d27d_row0_col7" class="data row0 col7" >1598</td>
     </tr>
     <tr>
-      <th id="T_c6fc3_level0_row1" class="row_heading level0 row1" >sparsity</th>
-      <td id="T_c6fc3_row1_col0" class="data row1 col0" >3.59</td>
-      <td id="T_c6fc3_row1_col1" class="data row1 col1" >3.29</td>
-      <td id="T_c6fc3_row1_col2" class="data row1 col2" >4.19</td>
-      <td id="T_c6fc3_row1_col3" class="data row1 col3" >5.37</td>
-      <td id="T_c6fc3_row1_col4" class="data row1 col4" >4.17</td>
-      <td id="T_c6fc3_row1_col5" class="data row1 col5" >🥇2.86</td>
-      <td id="T_c6fc3_row1_col6" class="data row1 col6" >4.54</td>
-      <td id="T_c6fc3_row1_col7" class="data row1 col7" >1598</td>
+      <th id="T_1d27d_level0_row1" class="row_heading level0 row1" >sparsity</th>
+      <td id="T_1d27d_row1_col0" class="data row1 col0" >3.59</td>
+      <td id="T_1d27d_row1_col1" class="data row1 col1" >3.29</td>
+      <td id="T_1d27d_row1_col2" class="data row1 col2" >4.19</td>
+      <td id="T_1d27d_row1_col3" class="data row1 col3" >5.37</td>
+      <td id="T_1d27d_row1_col4" class="data row1 col4" >4.17</td>
+      <td id="T_1d27d_row1_col5" class="data row1 col5" >🥇2.86</td>
+      <td id="T_1d27d_row1_col6" class="data row1 col6" >4.54</td>
+      <td id="T_1d27d_row1_col7" class="data row1 col7" >1598</td>
     </tr>
     <tr>
-      <th id="T_c6fc3_level0_row2" class="row_heading level0 row2" >L2</th>
-      <td id="T_c6fc3_row2_col0" class="data row2 col0" >5.37</td>
-      <td id="T_c6fc3_row2_col1" class="data row2 col1" >4.98</td>
-      <td id="T_c6fc3_row2_col2" class="data row2 col2" >3.23</td>
-      <td id="T_c6fc3_row2_col3" class="data row2 col3" >3.63</td>
-      <td id="T_c6fc3_row2_col4" class="data row2 col4" >3.25</td>
-      <td id="T_c6fc3_row2_col5" class="data row2 col5" >5.58</td>
-      <td id="T_c6fc3_row2_col6" class="data row2 col6" >🥇1.95</td>
-      <td id="T_c6fc3_row2_col7" class="data row2 col7" >1598</td>
+      <th id="T_1d27d_level0_row2" class="row_heading level0 row2" >L2</th>
+      <td id="T_1d27d_row2_col0" class="data row2 col0" >5.37</td>
+      <td id="T_1d27d_row2_col1" class="data row2 col1" >4.98</td>
+      <td id="T_1d27d_row2_col2" class="data row2 col2" >3.23</td>
+      <td id="T_1d27d_row2_col3" class="data row2 col3" >3.63</td>
+      <td id="T_1d27d_row2_col4" class="data row2 col4" >3.25</td>
+      <td id="T_1d27d_row2_col5" class="data row2 col5" >5.58</td>
+      <td id="T_1d27d_row2_col6" class="data row2 col6" >🥇1.95</td>
+      <td id="T_1d27d_row2_col7" class="data row2 col7" >1598</td>
     </tr>
     <tr>
-      <th id="T_c6fc3_level0_row3" class="row_heading level0 row3" >MAD</th>
-      <td id="T_c6fc3_row3_col0" class="data row3 col0" >4.60</td>
-      <td id="T_c6fc3_row3_col1" class="data row3 col1" >3.94</td>
-      <td id="T_c6fc3_row3_col2" class="data row3 col2" >🥇3.28</td>
-      <td id="T_c6fc3_row3_col3" class="data row3 col3" >4.63</td>
-      <td id="T_c6fc3_row3_col4" class="data row3 col4" >🥇3.23</td>
-      <td id="T_c6fc3_row3_col5" class="data row3 col5" >4.62</td>
-      <td id="T_c6fc3_row3_col6" class="data row3 col6" >3.71</td>
-      <td id="T_c6fc3_row3_col7" class="data row3 col7" >1598</td>
+      <th id="T_1d27d_level0_row3" class="row_heading level0 row3" >MAD</th>
+      <td id="T_1d27d_row3_col0" class="data row3 col0" >4.60</td>
+      <td id="T_1d27d_row3_col1" class="data row3 col1" >3.94</td>
+      <td id="T_1d27d_row3_col2" class="data row3 col2" >🥇3.28</td>
+      <td id="T_1d27d_row3_col3" class="data row3 col3" >4.63</td>
+      <td id="T_1d27d_row3_col4" class="data row3 col4" >🥇3.23</td>
+      <td id="T_1d27d_row3_col5" class="data row3 col5" >4.62</td>
+      <td id="T_1d27d_row3_col6" class="data row3 col6" >3.71</td>
+      <td id="T_1d27d_row3_col7" class="data row3 col7" >1598</td>
     </tr>
     <tr>
-      <th id="T_c6fc3_level0_row4" class="row_heading level0 row4" >MD</th>
-      <td id="T_c6fc3_row4_col0" class="data row4 col0" >5.15</td>
-      <td id="T_c6fc3_row4_col1" class="data row4 col1" >5.04</td>
-      <td id="T_c6fc3_row4_col2" class="data row4 col2" >3.25</td>
-      <td id="T_c6fc3_row4_col3" class="data row4 col3" >3.55</td>
-      <td id="T_c6fc3_row4_col4" class="data row4 col4" >3.23</td>
-      <td id="T_c6fc3_row4_col5" class="data row4 col5" >5.55</td>
-      <td id="T_c6fc3_row4_col6" class="data row4 col6" >🥇2.23</td>
-      <td id="T_c6fc3_row4_col7" class="data row4 col7" >1598</td>
+      <th id="T_1d27d_level0_row4" class="row_heading level0 row4" >MD</th>
+      <td id="T_1d27d_row4_col0" class="data row4 col0" >5.15</td>
+      <td id="T_1d27d_row4_col1" class="data row4 col1" >5.04</td>
+      <td id="T_1d27d_row4_col2" class="data row4 col2" >3.25</td>
+      <td id="T_1d27d_row4_col3" class="data row4 col3" >3.55</td>
+      <td id="T_1d27d_row4_col4" class="data row4 col4" >3.23</td>
+      <td id="T_1d27d_row4_col5" class="data row4 col5" >5.55</td>
+      <td id="T_1d27d_row4_col6" class="data row4 col6" >🥇2.23</td>
+      <td id="T_1d27d_row4_col7" class="data row4 col7" >1598</td>
     </tr>
   </tbody>
 </table>
@@ -349,18 +349,18 @@ The highlighted results are the ones that are statistically significant.
 </div>
 
 
-<table id="T_3e98d">
+<table id="T_16554">
   <thead>
     <tr>
       <th class="index_name level0" >framework</th>
-      <th id="T_3e98d_level0_col0" class="col_heading level0 col0" >synas</th>
-      <th id="T_3e98d_level0_col1" class="col_heading level0 col1" >sedc</th>
-      <th id="T_3e98d_level0_col2" class="col_heading level0 col2" >alibi</th>
-      <th id="T_3e98d_level0_col3" class="col_heading level0 col3" >cadex</th>
-      <th id="T_3e98d_level0_col4" class="col_heading level0 col4" >alibi_nograd</th>
-      <th id="T_3e98d_level0_col5" class="col_heading level0 col5" >dice</th>
-      <th id="T_3e98d_level0_col6" class="col_heading level0 col6" >growingspheres</th>
-      <th id="T_3e98d_level0_col7" class="col_heading level0 col7" >N</th>
+      <th id="T_16554_level0_col0" class="col_heading level0 col0" >synas</th>
+      <th id="T_16554_level0_col1" class="col_heading level0 col1" >sedc</th>
+      <th id="T_16554_level0_col2" class="col_heading level0 col2" >alibi</th>
+      <th id="T_16554_level0_col3" class="col_heading level0 col3" >cadex</th>
+      <th id="T_16554_level0_col4" class="col_heading level0 col4" >alibi_nograd</th>
+      <th id="T_16554_level0_col5" class="col_heading level0 col5" >dice</th>
+      <th id="T_16554_level0_col6" class="col_heading level0 col6" >growingspheres</th>
+      <th id="T_16554_level0_col7" class="col_heading level0 col7" >N</th>
     </tr>
     <tr>
       <th class="index_name level0" >index</th>
@@ -376,59 +376,59 @@ The highlighted results are the ones that are statistically significant.
   </thead>
   <tbody>
     <tr>
-      <th id="T_3e98d_level0_row0" class="row_heading level0 row0" >validity</th>
-      <td id="T_3e98d_row0_col0" class="data row0 col0" >🥇3.18</td>
-      <td id="T_3e98d_row0_col1" class="data row0 col1" >4.54</td>
-      <td id="T_3e98d_row0_col2" class="data row0 col2" >3.69</td>
-      <td id="T_3e98d_row0_col3" class="data row0 col3" >🥇3.44</td>
-      <td id="T_3e98d_row0_col4" class="data row0 col4" >3.99</td>
-      <td id="T_3e98d_row0_col5" class="data row0 col5" >4.09</td>
-      <td id="T_3e98d_row0_col6" class="data row0 col6" >5.07</td>
-      <td id="T_3e98d_row0_col7" class="data row0 col7" >1000</td>
+      <th id="T_16554_level0_row0" class="row_heading level0 row0" >validity</th>
+      <td id="T_16554_row0_col0" class="data row0 col0" >3.35</td>
+      <td id="T_16554_row0_col1" class="data row0 col1" >4.70</td>
+      <td id="T_16554_row0_col2" class="data row0 col2" >3.85</td>
+      <td id="T_16554_row0_col3" class="data row0 col3" >🥇2.46</td>
+      <td id="T_16554_row0_col4" class="data row0 col4" >4.15</td>
+      <td id="T_16554_row0_col5" class="data row0 col5" >4.26</td>
+      <td id="T_16554_row0_col6" class="data row0 col6" >5.23</td>
+      <td id="T_16554_row0_col7" class="data row0 col7" >1000</td>
     </tr>
     <tr>
-      <th id="T_3e98d_level0_row1" class="row_heading level0 row1" >sparsity</th>
-      <td id="T_3e98d_row1_col0" class="data row1 col0" >🥇2.81</td>
-      <td id="T_3e98d_row1_col1" class="data row1 col1" >4.48</td>
-      <td id="T_3e98d_row1_col2" class="data row1 col2" >3.78</td>
-      <td id="T_3e98d_row1_col3" class="data row1 col3" >3.91</td>
-      <td id="T_3e98d_row1_col4" class="data row1 col4" >3.92</td>
-      <td id="T_3e98d_row1_col5" class="data row1 col5" >4.03</td>
-      <td id="T_3e98d_row1_col6" class="data row1 col6" >5.07</td>
-      <td id="T_3e98d_row1_col7" class="data row1 col7" >1000</td>
+      <th id="T_16554_level0_row1" class="row_heading level0 row1" >sparsity</th>
+      <td id="T_16554_row1_col0" class="data row1 col0" >🥇2.89</td>
+      <td id="T_16554_row1_col1" class="data row1 col1" >4.62</td>
+      <td id="T_16554_row1_col2" class="data row1 col2" >3.86</td>
+      <td id="T_16554_row1_col3" class="data row1 col3" >3.18</td>
+      <td id="T_16554_row1_col4" class="data row1 col4" >4.05</td>
+      <td id="T_16554_row1_col5" class="data row1 col5" >4.17</td>
+      <td id="T_16554_row1_col6" class="data row1 col6" >5.23</td>
+      <td id="T_16554_row1_col7" class="data row1 col7" >1000</td>
     </tr>
     <tr>
-      <th id="T_3e98d_level0_row2" class="row_heading level0 row2" >L2</th>
-      <td id="T_3e98d_row2_col0" class="data row2 col0" >🥇3.04</td>
-      <td id="T_3e98d_row2_col1" class="data row2 col1" >4.55</td>
-      <td id="T_3e98d_row2_col2" class="data row2 col2" >3.64</td>
-      <td id="T_3e98d_row2_col3" class="data row2 col3" >3.68</td>
-      <td id="T_3e98d_row2_col4" class="data row2 col4" >3.74</td>
-      <td id="T_3e98d_row2_col5" class="data row2 col5" >4.28</td>
-      <td id="T_3e98d_row2_col6" class="data row2 col6" >5.07</td>
-      <td id="T_3e98d_row2_col7" class="data row2 col7" >1000</td>
+      <th id="T_16554_level0_row2" class="row_heading level0 row2" >L2</th>
+      <td id="T_16554_row2_col0" class="data row2 col0" >🥇3.14</td>
+      <td id="T_16554_row2_col1" class="data row2 col1" >4.69</td>
+      <td id="T_16554_row2_col2" class="data row2 col2" >3.74</td>
+      <td id="T_16554_row2_col3" class="data row2 col3" >🥇2.89</td>
+      <td id="T_16554_row2_col4" class="data row2 col4" >3.87</td>
+      <td id="T_16554_row2_col5" class="data row2 col5" >4.43</td>
+      <td id="T_16554_row2_col6" class="data row2 col6" >5.23</td>
+      <td id="T_16554_row2_col7" class="data row2 col7" >1000</td>
     </tr>
     <tr>
-      <th id="T_3e98d_level0_row3" class="row_heading level0 row3" >MAD</th>
-      <td id="T_3e98d_row3_col0" class="data row3 col0" >🥇3.45</td>
-      <td id="T_3e98d_row3_col1" class="data row3 col1" >4.37</td>
-      <td id="T_3e98d_row3_col2" class="data row3 col2" >3.70</td>
-      <td id="T_3e98d_row3_col3" class="data row3 col3" >🥇3.33</td>
-      <td id="T_3e98d_row3_col4" class="data row3 col4" >3.76</td>
-      <td id="T_3e98d_row3_col5" class="data row3 col5" >4.51</td>
-      <td id="T_3e98d_row3_col6" class="data row3 col6" >4.88</td>
-      <td id="T_3e98d_row3_col7" class="data row3 col7" >1000</td>
+      <th id="T_16554_level0_row3" class="row_heading level0 row3" >MAD</th>
+      <td id="T_16554_row3_col0" class="data row3 col0" >3.57</td>
+      <td id="T_16554_row3_col1" class="data row3 col1" >4.53</td>
+      <td id="T_16554_row3_col2" class="data row3 col2" >3.82</td>
+      <td id="T_16554_row3_col3" class="data row3 col3" >🥇2.46</td>
+      <td id="T_16554_row3_col4" class="data row3 col4" >3.92</td>
+      <td id="T_16554_row3_col5" class="data row3 col5" >4.67</td>
+      <td id="T_16554_row3_col6" class="data row3 col6" >5.04</td>
+      <td id="T_16554_row3_col7" class="data row3 col7" >1000</td>
     </tr>
     <tr>
-      <th id="T_3e98d_level0_row4" class="row_heading level0 row4" >MD</th>
-      <td id="T_3e98d_row4_col0" class="data row4 col0" >🥇3.15</td>
-      <td id="T_3e98d_row4_col1" class="data row4 col1" >4.63</td>
-      <td id="T_3e98d_row4_col2" class="data row4 col2" >3.50</td>
-      <td id="T_3e98d_row4_col3" class="data row4 col3" >3.55</td>
-      <td id="T_3e98d_row4_col4" class="data row4 col4" >3.81</td>
-      <td id="T_3e98d_row4_col5" class="data row4 col5" >4.28</td>
-      <td id="T_3e98d_row4_col6" class="data row4 col6" >5.07</td>
-      <td id="T_3e98d_row4_col7" class="data row4 col7" >1000</td>
+      <th id="T_16554_level0_row4" class="row_heading level0 row4" >MD</th>
+      <td id="T_16554_row4_col0" class="data row4 col0" >3.29</td>
+      <td id="T_16554_row4_col1" class="data row4 col1" >4.79</td>
+      <td id="T_16554_row4_col2" class="data row4 col2" >3.62</td>
+      <td id="T_16554_row4_col3" class="data row4 col3" >🥇2.66</td>
+      <td id="T_16554_row4_col4" class="data row4 col4" >3.96</td>
+      <td id="T_16554_row4_col5" class="data row4 col5" >4.45</td>
+      <td id="T_16554_row4_col6" class="data row4 col6" >5.23</td>
+      <td id="T_16554_row4_col7" class="data row4 col7" >1000</td>
     </tr>
   </tbody>
 </table>
